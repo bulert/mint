@@ -1,26 +1,26 @@
 const cards = [
   {
     id: 1,
-    imageUrl: "/assets/images/na.png",
+    imageUrl: "./assets/images/na.png",
     heading: "AppName",
     link: "#"
   },
   {
     id: 2,
-    imageUrl: "/assets/images/na.png",
+    imageUrl: "./assets/images/na.png",
     heading: "AppName2",
     link: "#"
   },
   {
     id: 3,
-    imageUrl: "/assets/images/na.png",
+    imageUrl: "./assets/images/na.png",
     heading: "AppName3",
     link: "#"
   },
 
   {
     id: 4,
-    imageUrl: "/assets/images/na.png",
+    imageUrl: "./assets/images/na.png",
     heading: "AppName4",
     link: "#"
   },

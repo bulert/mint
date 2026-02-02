@@ -1,61 +1,61 @@
 const cards = [
   {
     id: 1,
-    imageUrl: "/assets/images/na.png",
+    imageUrl: "./assets/images/na.png",
     heading: "GameName",
     link: "#"
   },
   {
     id: 2,
-    imageUrl: "/assets/images/na.png",
+    imageUrl: "./assets/images/na.png",
     heading: "GameName2",
     link: "#"
   },
   {
     id: 3,
-    imageUrl: "/assets/images/na.png",
+    imageUrl: "./assets/images/na.png",
     heading: "GameName3",
     link: "#"
   },
   {
     id: 4,
-    imageUrl: "/assets/images/na.png",
+    imageUrl: "./assets/images/na.png",
     heading: "GameName4",
     link: "#"
   },
   {
     id: 5,
-    imageUrl: "/assets/images/na.png",
+    imageUrl: "./assets/images/na.png",
     heading: "GameName5",
     link: "#"
   },
   {
     id: 6,
-    imageUrl: "/assets/images/na.png",
+    imageUrl: "./assets/images/na.png",
     heading: "GameName6",
     link: "#"
   },
   {
     id: 7,
-    imageUrl: "/assets/images/na.png",
+    imageUrl: "./assets/images/na.png",
     heading: "GameName7",
     link: "#"
   },
   {
     id: 8,
-    imageUrl: "/assets/images/na.png",
+    imageUrl: "./assets/images/na.png",
     heading: "GameName8",
     link: "#"
   },
   {
     id: 9,
-    imageUrl: "/assets/images/na.png",
+    imageUrl: "./assets/images/na.png",
     heading: "GameName9",
     link: "#"
   },
   {
     id: 10,
-    imageUrl: "/assets/images/na.png",
+    imageUrl: "./assets/images/na.png",
     heading: "GameName10",
     link: "#"
   },
