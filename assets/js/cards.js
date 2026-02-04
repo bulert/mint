@@ -51,6 +51,12 @@ const cards = [
   },
 
   {
+         imageUrl: "./assets/images/games/celeste.png",
+    heading: "Celeste",
+    link: "https://mint-ub.github.io/games/celeste"
+  },
+
+  {
          imageUrl: "./assets/images/games/city-smash.png",
     heading: "City Smash",
     link: "https://mint-ub.github.io/games/city-smash"
