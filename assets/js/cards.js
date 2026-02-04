@@ -1,4 +1,11 @@
 const cards = [
+
+  {
+         imageUrl: "./assets/images/games/among-us.png",
+    heading: "Among Us",
+    link: "https://mint-ub.github.io/games/among-us/game/"
+  },
+
   {
          imageUrl: "./assets/images/games/angry-birds.png",
     heading: "Angry Birds",
