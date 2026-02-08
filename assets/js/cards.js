@@ -311,11 +311,6 @@ const cards = [
     link: "https://mint-ub.github.io/games/tomb-of-the-mask"
   },
   {
-    imageUrl: "./assets/images/games/turbo-dismounting.png",
-    heading: "Turbo Dismounting",
-    link: "https://f.kbhgames.com/2018/09/turbo-dismounting/"
-  },
-  {
     imageUrl: "./assets/images/games/zuma.png",
     heading: "Zuma",
     link: "https://mint-ub.github.io/games/zuma"
