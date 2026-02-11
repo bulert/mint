@@ -2,157 +2,157 @@ const cards = [
   {
     imageUrl: "./assets/images/games/among-us.png",
     heading: "Among Us",
-    link: "https://bulert.github.io/games/among-us/game/"
+    link: "https://games-kappa-beryl.vercel.app/among-us/game/"
   },
   {
     imageUrl: "./assets/images/games/angry-birds.png",
     heading: "Angry Birds",
-    link: "https://bulert.github.io/games/angry-birds"
+    link: "https://games-kappa-beryl.vercel.app/angry-birds"
   },
     {
     imageUrl: "./assets/images/games/angry-birds-2.png",
     heading: "Angry Birds 2",
-    link: "https://bulert.github.io/games/angry-birds-2"
+    link: "https://games-kappa-beryl.vercel.app/angry-birds-2"
   },
   {
     imageUrl: "./assets/images/games/angry-birds-epic.png",
     heading: "Angry Birds Epic",
-    link: "https://bulert.github.io/games/angry-birds-epic"
+    link: "https://games-kappa-beryl.vercel.app/angry-birds-epic"
   },
   {
     imageUrl: "./assets/images/games/bad-piggies.png",
     heading: "Bad Piggies",
-    link: "https://bulert.github.io/games/bad-piggies"
+    link: "https://games-kappa-beryl.vercel.app/bad-piggies"
   },
   {
     imageUrl: "./assets/images/games/bad-time-simulator.png",
     heading: "Bad Time Simulator",
-    link: "https://bulert.github.io/games/bad-time-simulator"
+    link: "https://games-kappa-beryl.vercel.app/bad-time-simulator"
   },
   {
     imageUrl: "./assets/images/games/baldis-basics-in-education-and-learning.png",
     heading: "Baldi's Basics in Education and Learning",
-    link: "https://bulert.github.io/games/baldis-basics-in-education-and-learning"
+    link: "https://games-kappa-beryl.vercel.app/baldis-basics-in-education-and-learning"
   },
   {
     imageUrl: "./assets/images/games/bendy-and-the-ink-machine.png",
     heading: "Bendy and the Ink Machine",
-    link: "https://bulert.github.io/games/bendy-and-the-ink-machine"
+    link: "https://games-kappa-beryl.vercel.app/bendy-and-the-ink-machine"
   },
   {
     imageUrl: "./assets/images/games/bitlife.png",
     heading: "BitLife",
-    link: "https://bulert.github.io/games/bitlife"
+    link: "https://games-kappa-beryl.vercel.app/bitlife"
   },
   {
     imageUrl: "./assets/images/games/block-blast.png",
     heading: "Block Blast",
-    link: "https://bulert.github.io/games/block-blast"
+    link: "https://games-kappa-beryl.vercel.app/block-blast"
   },
   {
     imageUrl: "./assets/images/games/buckshot-roulette.png",
     heading: "Buckshot Roulette",
-    link: "https://bulert.github.io/games/buckshot-roulette"
+    link: "https://games-kappa-beryl.vercel.app/buckshot-roulette"
   },
   {
     imageUrl: "./assets/images/games/burrito-bison-launcha-libre.png",
     heading: "Burrito Bison: Launcha Libre",
-    link: "https://bulert.github.io/games/burrito-bison-launcha-libre"
+    link: "https://games-kappa-beryl.vercel.app/burrito-bison-launcha-libre"
   },
   {
     imageUrl: "./assets/images/games/city-smash.png",
     heading: "City Smash",
-    link: "https://bulert.github.io/games/city-smash"
+    link: "https://games-kappa-beryl.vercel.app/city-smash"
   },
     {
     imageUrl: "./assets/images/games/class-of-09-flipside.png",
     heading: "Class of 09: Flipside",
-    link: "https://bulert.github.io/games/class-of-09-flipside"
+    link: "https://games-kappa-beryl.vercel.app/class-of-09-flipside"
   },
   {
     imageUrl: "./assets/images/games/class-of-09-the-reup.png",
     heading: "Class of 09: The Re-Up",
-    link: "https://bulert.github.io/games/class-of-09-reup"
+    link: "https://games-kappa-beryl.vercel.app/class-of-09-reup"
   },
   {
     imageUrl: "./assets/images/games/cookie-clicker.png",
     heading: "Cookie Clicker",
-    link: "https://bulert.github.io/games/cookie-clicker"
+    link: "https://games-kappa-beryl.vercel.app/cookie-clicker"
   },
   {
     imageUrl: "./assets/images/games/cut-the-rope.png",
     heading: "Cut The Rope",
-    link: "https://bulert.github.io/games/cut-the-rope"
+    link: "https://games-kappa-beryl.vercel.app/cut-the-rope"
   },
   {
     imageUrl: "./assets/images/games/doki-doki-literature-club.png",
     heading: "Doki Doki Literature Club",
-    link: "https://bulert.github.io/games/doki-doki-literature-club"
+    link: "https://games-kappa-beryl.vercel.app/doki-doki-literature-club"
   },
   {
     imageUrl: "./assets/images/games/drive-mad.png",
     heading: "Drive Mad",
-    link: "https://bulert.github.io/games/drive-mad"
+    link: "https://games-kappa-beryl.vercel.app/drive-mad"
   },
   {
     imageUrl: "./assets/images/games/five-nights-at-freddys.png",
     heading: "Five Nights at Freddy's",
-    link: "https://bulert.github.io/games/five-nights-at-freddys"
+    link: "https://games-kappa-beryl.vercel.app/five-nights-at-freddys"
   },
   {
     imageUrl: "./assets/images/games/five-nights-at-freddys-2.png",
     heading: "Five Nights at Freddy's 2",
-    link: "https://bulert.github.io/games/five-nights-at-freddys-2"
+    link: "https://games-kappa-beryl.vercel.app/five-nights-at-freddys-2"
   },
   {
     imageUrl: "./assets/images/games/five-nights-at-freddys-3.png",
     heading: "Five Nights at Freddy's 3",
-    link: "https://bulert.github.io/games/five-nights-at-freddys-3"
+    link: "https://games-kappa-beryl.vercel.app/five-nights-at-freddys-3"
   },
   {
     imageUrl: "./assets/images/games/five-nights-at-freddys-4.png",
     heading: "Five Nights at Freddy's 4",
-    link: "https://bulert.github.io/games/five-nights-at-freddys-4"
+    link: "https://games-kappa-beryl.vercel.app/five-nights-at-freddys-4"
   },
   {
     imageUrl: "./assets/images/games/gacha-club.png",
     heading: "Gacha Club",
-    link: "https://bulert.github.io/games/gacha-club-studio"
+    link: "https://games-kappa-beryl.vercel.app/gacha-club-studio"
   },
   {
     imageUrl: "./assets/images/games/gacha-life.png",
     heading: "Gacha Life",
-    link: "https://bulert.github.io/games/gacha-life"
+    link: "https://games-kappa-beryl.vercel.app/gacha-life"
   },
   {
     imageUrl: "./assets/images/games/geometry-dash.png",
     heading: "Geometry Dash",
-    link: "https://bulert.github.io/games/geometry-dash"
+    link: "https://games-kappa-beryl.vercel.app/geometry-dash"
   },
   {
     imageUrl: "./assets/images/games/geometry-dash-meltdown.png",
     heading: "Geometry Dash Meltdown",
-    link: "https://bulert.github.io/games/geometry-dash-meltdown"
+    link: "https://games-kappa-beryl.vercel.app/geometry-dash-meltdown"
   },
   {
     imageUrl: "./assets/images/games/geometry-dash-subzero.png",
     heading: "Geometry Dash Subzero",
-    link: "https://bulert.github.io/games/geometry-dash-subzero"
+    link: "https://games-kappa-beryl.vercel.app/geometry-dash-subzero"
   },
   {
     imageUrl: "./assets/images/games/geometry-dash-world.png",
     heading: "Geometry Dash World",
-    link: "https://bulert.github.io/games/geometry-dash-world"
+    link: "https://games-kappa-beryl.vercel.app/geometry-dash-world"
   },
   {
     imageUrl: "./assets/images/games/granny.png",
     heading: "Granny",
-    link: "https://bulert.github.io/games/granny"
+    link: "https://games-kappa-beryl.vercel.app/granny"
   },
   {
     imageUrl: "./assets/images/games/kindergarten.png",
     heading: "Kindergarten",
-    link: "https://bulert.github.io/games/kindergarten"
+    link: "https://games-kappa-beryl.vercel.app/kindergarten"
   },
   {
      
@@ -163,172 +163,172 @@ const cards = [
   {
     imageUrl: "./assets/images/games/minecraft.png",
     heading: "Minecraft",
-    link: "https://bulert.github.io/games/minecraft"
+    link: "https://games-kappa-beryl.vercel.app/minecraft"
   },
   {
     imageUrl: "./assets/images/games/papas-bakeria.png",
     heading: "Papa's Bakeria",
-    link: "https://bulert.github.io/games/papas-bakeria"
+    link: "https://games-kappa-beryl.vercel.app/papas-bakeria"
   },
   {
     imageUrl: "./assets/images/games/papas-burgeria.png",
     heading: "Papa's Burgeria",
-    link: "https://bulert.github.io/games/papas-burgeria"
+    link: "https://games-kappa-beryl.vercel.app/papas-burgeria"
   },
   {
     imageUrl: "./assets/images/games/papas-cheeseria.png",
     heading: "Papa's Cheeseria",
-    link: "https://bulert.github.io/games/papas-cheeseria"
+    link: "https://games-kappa-beryl.vercel.app/papas-cheeseria"
   },
   {
     imageUrl: "./assets/images/games/papas-cupcakeria.png",
     heading: "Papa's Cupcakeria",
-    link: "https://bulert.github.io/games/papas-cupcakeria"
+    link: "https://games-kappa-beryl.vercel.app/papas-cupcakeria"
   },
   {
     imageUrl: "./assets/images/games/papas-donuteria.png",
     heading: "Papa's Donuteria",
-    link: "https://bulert.github.io/games/papas-donuteria"
+    link: "https://games-kappa-beryl.vercel.app/papas-donuteria"
   },
   {
     imageUrl: "./assets/images/games/papas-freezeria.png",
     heading: "Papa's Freezeria",
-    link: "https://bulert.github.io/games/papas-freezeria"
+    link: "https://games-kappa-beryl.vercel.app/papas-freezeria"
   },
   {
     imageUrl: "./assets/images/games/papas-hot-doggeria.png",
     heading: "Papa's Hot Doggeria",
-    link: "https://bulert.github.io/games/papas-hot-doggeria"
+    link: "https://games-kappa-beryl.vercel.app/papas-hot-doggeria"
   },
   {
     imageUrl: "./assets/images/games/papas-pancakeria.png",
     heading: "Papa's Pancakeria",
-    link: "https://bulert.github.io/games/papas-pancakeria"
+    link: "https://games-kappa-beryl.vercel.app/papas-pancakeria"
   },
   {
     imageUrl: "./assets/images/games/papas-pastaria.png",
     heading: "Papa's Pastaria",
-    link: "https://bulert.github.io/games/papas-pastaria"
+    link: "https://games-kappa-beryl.vercel.app/papas-pastaria"
   },
   {
     imageUrl: "./assets/images/games/papas-pizzeria.png",
     heading: "Papa's Pizzeria",
-    link: "https://bulert.github.io/games/papas-pizzeria"
+    link: "https://games-kappa-beryl.vercel.app/papas-pizzeria"
   },
   {
     imageUrl: "./assets/images/games/papas-scooperia.png",
     heading: "Papa's Scooperia",
-    link: "https://bulert.github.io/games/papas-scooperia"
+    link: "https://games-kappa-beryl.vercel.app/papas-scooperia"
   },
   {
     imageUrl: "./assets/images/games/papas-sushiria.png",
     heading: "Papa's Sushiria",
-    link: "https://bulert.github.io/games/papas-sushiria"
+    link: "https://games-kappa-beryl.vercel.app/papas-sushiria"
   },
   {
     imageUrl: "./assets/images/games/papas-taco-mia.png",
     heading: "Papa's Taco Mia",
-    link: "https://bulert.github.io/games/papas-taco-mia"
+    link: "https://games-kappa-beryl.vercel.app/papas-taco-mia"
   },
   {
     imageUrl: "./assets/images/games/papas-wingeria.png",
     heading: "Papa's Wingeria",
-    link: "https://bulert.github.io/games/papas-wingeria"
+    link: "https://games-kappa-beryl.vercel.app/papas-wingeria"
   },
   {
     imageUrl: "./assets/images/games/peggle.png",
     heading: "Peggle",
-    link: "https://bulert.github.io/games/peggle"
+    link: "https://games-kappa-beryl.vercel.app/peggle"
   },
   {
     imageUrl: "./assets/images/games/plants-vs-zombies.png",
     heading: "Plants vs Zombies",
-    link: "https://bulert.github.io/games/plants-vs-zombies"
+    link: "https://games-kappa-beryl.vercel.app/plants-vs-zombies"
   },
   {
     imageUrl: "./assets/images/games/red-ball-4.png",
     heading: "Red Ball 4",
-    link: "https://bulert.github.io/games/red-ball-4"
+    link: "https://games-kappa-beryl.vercel.app/red-ball-4"
   },
   {
     imageUrl: "./assets/images/games/retro-bowl.png",
     heading: "Retro Bowl",
-    link: "https://bulert.github.io/games/retro-bowl"
+    link: "https://games-kappa-beryl.vercel.app/retro-bowl"
   },
   {
     imageUrl: "./assets/images/games/rolling-sky.png",
     heading: "Rolling Sky",
-    link: "https://bulert.github.io/games/rolling-sky"
+    link: "https://games-kappa-beryl.vercel.app/rolling-sky"
   },
   {
     imageUrl: "./assets/images/games/solar-smash.png",
     heading: "Solar Smash",
-    link: "https://bulert.github.io/games/solar-smash"
+    link: "https://games-kappa-beryl.vercel.app/solar-smash"
   },
   {
     imageUrl: "./assets/images/games/sonic-mania.png",
     heading: "Sonic Mania",
-    link: "https://bulert.github.io/games/sonic-mania"
+    link: "https://games-kappa-beryl.vercel.app/sonic-mania"
   },
   {
     imageUrl: "./assets/images/games/space-waves.png",
     heading: "Space Waves",
-    link: "https://bulert.github.io/games/space-waves"
+    link: "https://games-kappa-beryl.vercel.app/space-waves"
   },
   {
     imageUrl: "./assets/images/games/stickman-hook.png",
     heading: "Stickman Hook",
-    link: "https://bulert.github.io/games/stickman-hook"
+    link: "https://games-kappa-beryl.vercel.app/stickman-hook"
   },
   {
     imageUrl: "./assets/images/games/subway-surfers.png",
     heading: "Subway Surfers",
-    link: "https://bulert.github.io/games/subway-surfers"
+    link: "https://games-kappa-beryl.vercel.app/subway-surfers"
   },
   {
     imageUrl: "./assets/images/games/tag.png",
     heading: "Tag",
-    link: "https://bulert.github.io/games/tag"
+    link: "https://games-kappa-beryl.vercel.app/tag"
   },
   {
     imageUrl: "./assets/images/games/temple-run-2.png",
     heading: "Temple Run 2",
-    link: "https://bulert.github.io/games/temple-run-2"
+    link: "https://games-kappa-beryl.vercel.app/temple-run-2"
   },
   {
     imageUrl: "./assets/images/games/the-impossible-quiz.png",
     heading: "The Impossible Quiz",
-    link: "https://bulert.github.io/games/the-impossible-quiz"
+    link: "https://games-kappa-beryl.vercel.app/the-impossible-quiz"
   },
   {
     imageUrl: "./assets/images/games/the-impossible-quiz-2.png",
     heading: "The Impossible Quiz 2",
-    link: "https://bulert.github.io/games/the-impossible-quiz-2"
+    link: "https://games-kappa-beryl.vercel.app/the-impossible-quiz-2"
   },
   {
     imageUrl: "./assets/images/games/the-impossible-quiz-book.png",
     heading: "The Impossible Quiz Book",
-    link: "https://bulert.github.io/games/the-impossible-quiz-book"
+    link: "https://games-kappa-beryl.vercel.app/the-impossible-quiz-book"
   },
   {
     imageUrl: "./assets/images/games/the-impossible-quiz-book-2.png",
     heading: "The Impossible Quiz Book 2",
-    link: "https://bulert.github.io/games/the-impossible-quiz-book-2"
+    link: "https://games-kappa-beryl.vercel.app/the-impossible-quiz-book-2"
   },
   {
     imageUrl: "./assets/images/games/the-impossible-quiz-book-3.png",
     heading: "The Impossible Quiz Book 3",
-    link: "https://bulert.github.io/games/the-impossible-quiz-book-3"
+    link: "https://games-kappa-beryl.vercel.app/the-impossible-quiz-book-3"
   },
   {
     imageUrl: "./assets/images/games/tomb-of-the-mask.png",
     heading: "Tomb of the Mask",
-    link: "https://bulert.github.io/games/tomb-of-the-mask"
+    link: "https://games-kappa-beryl.vercel.app/tomb-of-the-mask"
   },
   {
     imageUrl: "./assets/images/games/zuma.png",
     heading: "Zuma",
-    link: "https://bulert.github.io/games/zuma"
+    link: "https://games-kappa-beryl.vercel.app/zuma"
   }
 ];
 
