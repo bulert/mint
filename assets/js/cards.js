@@ -314,6 +314,11 @@ const cards = [
     heading: "Tomb of the Mask",
     link: "https://ohiomint-enjoyment.vercel.app/tomb-of-the-mask/"
   },
+    {
+    imageUrl: "./assets/images/games/vvvvvv.png",
+    heading: "VVVVVV",
+    link: "https://ohiomint-enjoyment.vercel.app/vvvvvv/"
+  },
   {
     imageUrl: "./assets/images/games/zuma.png",
     heading: "Zuma",
