@@ -2,147 +2,147 @@ const cards = [
   {
     imageUrl: "./assets/images/games/among-us.png",
     heading: "Among Us",
-    link: "https://games-kappa-beryl.vercel.app/among-us/game/"
+    link: "https://ohiomint-enjoyment.vercel.app/among-us/game/"
   },
   {
     imageUrl: "./assets/images/games/angry-birds.png",
     heading: "Angry Birds",
-    link: "https://games-kappa-beryl.vercel.app/angry-birds/"
+    link: "https://ohiomint-enjoyment.vercel.app/angry-birds/"
   },
   {
     imageUrl: "./assets/images/games/angry-birds-2.png",
     heading: "Angry Birds 2",
-    link: "https://games-kappa-beryl.vercel.app/angry-birds-2/"
+    link: "https://ohiomint-enjoyment.vercel.app/angry-birds-2/"
   },
   {
     imageUrl: "./assets/images/games/angry-birds-epic.png",
     heading: "Angry Birds Epic",
-    link: "https://games-kappa-beryl.vercel.app/angry-birds-epic/"
+    link: "https://ohiomint-enjoyment.vercel.app/angry-birds-epic/"
   },
   {
     imageUrl: "./assets/images/games/bad-piggies.png",
     heading: "Bad Piggies",
-    link: "https://games-kappa-beryl.vercel.app/bad-piggies/"
+    link: "https://ohiomint-enjoyment.vercel.app/bad-piggies/"
   },
   {
     imageUrl: "./assets/images/games/bad-time-simulator.png",
     heading: "Bad Time Simulator",
-    link: "https://games-kappa-beryl.vercel.app/bad-time-simulator/"
+    link: "https://ohiomint-enjoyment.vercel.app/bad-time-simulator/"
   },
   {
     imageUrl: "./assets/images/games/baldis-basics-in-education-and-learning.png",
     heading: "Baldi's Basics in Education and Learning",
-    link: "https://games-kappa-beryl.vercel.app/baldis-basics-in-education-and-learning/"
+    link: "https://ohiomint-enjoyment.vercel.app/baldis-basics-in-education-and-learning/"
   },
   {
     imageUrl: "./assets/images/games/bendy-and-the-ink-machine.png",
     heading: "Bendy and the Ink Machine",
-    link: "https://games-kappa-beryl.vercel.app/bendy-and-the-ink-machine/"
+    link: "https://ohiomint-enjoyment.vercel.app/bendy-and-the-ink-machine/"
   },
   {
     imageUrl: "./assets/images/games/bitlife.png",
     heading: "BitLife",
-    link: "https://games-kappa-beryl.vercel.app/bitlife/"
+    link: "https://ohiomint-enjoyment.vercel.app/bitlife/"
   },
   {
     imageUrl: "./assets/images/games/block-blast.png",
     heading: "Block Blast",
-    link: "https://games-kappa-beryl.vercel.app/block-blast/"
+    link: "https://ohiomint-enjoyment.vercel.app/block-blast/"
   },
   {
     imageUrl: "./assets/images/games/buckshot-roulette.png",
     heading: "Buckshot Roulette",
-    link: "https://games-kappa-beryl.vercel.app/buckshot-roulette/"
+    link: "https://ohiomint-enjoyment.vercel.app/buckshot-roulette/"
   },
   {
     imageUrl: "./assets/images/games/burrito-bison-launcha-libre.png",
     heading: "Burrito Bison: Launcha Libre",
-    link: "https://games-kappa-beryl.vercel.app/burrito-bison-launcha-libre/"
+    link: "https://ohiomint-enjoyment.vercel.app/burrito-bison-launcha-libre/"
   },
   {
     imageUrl: "./assets/images/games/city-smash.png",
     heading: "City Smash",
-    link: "https://games-kappa-beryl.vercel.app/city-smash/"
+    link: "https://ohiomint-enjoyment.vercel.app/city-smash/"
   },
   {
     imageUrl: "./assets/images/games/cookie-clicker.png",
     heading: "Cookie Clicker",
-    link: "https://games-kappa-beryl.vercel.app/cookie-clicker/"
+    link: "https://ohiomint-enjoyment.vercel.app/cookie-clicker/"
   },
   {
     imageUrl: "./assets/images/games/cut-the-rope.png",
     heading: "Cut The Rope",
-    link: "https://games-kappa-beryl.vercel.app/cut-the-rope/"
+    link: "https://ohiomint-enjoyment.vercel.app/cut-the-rope/"
   },
   {
     imageUrl: "./assets/images/games/doki-doki-literature-club.png",
     heading: "Doki Doki Literature Club",
-    link: "https://games-kappa-beryl.vercel.app/doki-doki-literature-club/"
+    link: "https://ohiomint-enjoyment.vercel.app/doki-doki-literature-club/"
   },
   {
     imageUrl: "./assets/images/games/drive-mad.png",
     heading: "Drive Mad",
-    link: "https://games-kappa-beryl.vercel.app/drive-mad/"
+    link: "https://ohiomint-enjoyment.vercel.app/drive-mad/"
   },
   {
     imageUrl: "./assets/images/games/five-nights-at-freddys.png",
     heading: "Five Nights at Freddy's",
-    link: "https://games-kappa-beryl.vercel.app/five-nights-at-freddys/"
+    link: "https://ohiomint-enjoyment.vercel.app/five-nights-at-freddys/"
   },
   {
     imageUrl: "./assets/images/games/five-nights-at-freddys-2.png",
     heading: "Five Nights at Freddy's 2",
-    link: "https://games-kappa-beryl.vercel.app/five-nights-at-freddys-2/"
+    link: "https://ohiomint-enjoyment.vercel.app/five-nights-at-freddys-2/"
   },
   {
     imageUrl: "./assets/images/games/five-nights-at-freddys-3.png",
     heading: "Five Nights at Freddy's 3",
-    link: "https://games-kappa-beryl.vercel.app/five-nights-at-freddys-3/"
+    link: "https://ohiomint-enjoyment.vercel.app/five-nights-at-freddys-3/"
   },
   {
     imageUrl: "./assets/images/games/five-nights-at-freddys-4.png",
     heading: "Five Nights at Freddy's 4",
-    link: "https://games-kappa-beryl.vercel.app/five-nights-at-freddys-4/"
+    link: "https://ohiomint-enjoyment.vercel.app/five-nights-at-freddys-4/"
   },
   {
     imageUrl: "./assets/images/games/gacha-club.png",
     heading: "Gacha Club",
-    link: "https://games-kappa-beryl.vercel.app/gacha-club-studio/"
+    link: "https://ohiomint-enjoyment.vercel.app/gacha-club-studio/"
   },
   {
     imageUrl: "./assets/images/games/gacha-life.png",
     heading: "Gacha Life",
-    link: "https://games-kappa-beryl.vercel.app/gacha-life/"
+    link: "https://ohiomint-enjoyment.vercel.app/gacha-life/"
   },
   {
     imageUrl: "./assets/images/games/geometry-dash.png",
     heading: "Geometry Dash",
-    link: "https://games-kappa-beryl.vercel.app/geometry-dash/"
+    link: "https://ohiomint-enjoyment.vercel.app/geometry-dash/"
   },
   {
     imageUrl: "./assets/images/games/geometry-dash-meltdown.png",
     heading: "Geometry Dash Meltdown",
-    link: "https://games-kappa-beryl.vercel.app/geometry-dash-meltdown/"
+    link: "https://ohiomint-enjoyment.vercel.app/geometry-dash-meltdown/"
   },
   {
     imageUrl: "./assets/images/games/geometry-dash-subzero.png",
     heading: "Geometry Dash Subzero",
-    link: "https://games-kappa-beryl.vercel.app/geometry-dash-subzero/"
+    link: "https://ohiomint-enjoyment.vercel.app/geometry-dash-subzero/"
   },
   {
     imageUrl: "./assets/images/games/geometry-dash-world.png",
     heading: "Geometry Dash World",
-    link: "https://games-kappa-beryl.vercel.app/geometry-dash-world/"
+    link: "https://ohiomint-enjoyment.vercel.app/geometry-dash-world/"
   },
   {
     imageUrl: "./assets/images/games/granny.png",
     heading: "Granny",
-    link: "https://games-kappa-beryl.vercel.app/granny/"
+    link: "https://ohiomint-enjoyment.vercel.app/granny/"
   },
   {
     imageUrl: "./assets/images/games/kindergarten.png",
     heading: "Kindergarten",
-    link: "https://games-kappa-beryl.vercel.app/kindergarten/"
+    link: "https://ohiomint-enjoyment.vercel.app/kindergarten/"
   },
   {
     imageUrl: "./assets/images/games/melon-sandbox.png",
@@ -152,172 +152,172 @@ const cards = [
   {
     imageUrl: "./assets/images/games/minecraft.png",
     heading: "Minecraft",
-    link: "https://games-kappa-beryl.vercel.app/minecraft/"
+    link: "https://ohiomint-enjoyment.vercel.app/minecraft/"
   },
   {
     imageUrl: "./assets/images/games/papas-bakeria.png",
     heading: "Papa's Bakeria",
-    link: "https://games-kappa-beryl.vercel.app/papas-bakeria/"
+    link: "https://ohiomint-enjoyment.vercel.app/papas-bakeria/"
   },
   {
     imageUrl: "./assets/images/games/papas-burgeria.png",
     heading: "Papa's Burgeria",
-    link: "https://games-kappa-beryl.vercel.app/papas-burgeria/"
+    link: "https://ohiomint-enjoyment.vercel.app/papas-burgeria/"
   },
   {
     imageUrl: "./assets/images/games/papas-cheeseria.png",
     heading: "Papa's Cheeseria",
-    link: "https://games-kappa-beryl.vercel.app/papas-cheeseria/"
+    link: "https://ohiomint-enjoyment.vercel.app/papas-cheeseria/"
   },
   {
     imageUrl: "./assets/images/games/papas-cupcakeria.png",
     heading: "Papa's Cupcakeria",
-    link: "https://games-kappa-beryl.vercel.app/papas-cupcakeria/"
+    link: "https://ohiomint-enjoyment.vercel.app/papas-cupcakeria/"
   },
   {
     imageUrl: "./assets/images/games/papas-donuteria.png",
     heading: "Papa's Donuteria",
-    link: "https://games-kappa-beryl.vercel.app/papas-donuteria/"
+    link: "https://ohiomint-enjoyment.vercel.app/papas-donuteria/"
   },
   {
     imageUrl: "./assets/images/games/papas-freezeria.png",
     heading: "Papa's Freezeria",
-    link: "https://games-kappa-beryl.vercel.app/papas-freezeria/"
+    link: "https://ohiomint-enjoyment.vercel.app/papas-freezeria/"
   },
   {
     imageUrl: "./assets/images/games/papas-hot-doggeria.png",
     heading: "Papa's Hot Doggeria",
-    link: "https://games-kappa-beryl.vercel.app/papas-hot-doggeria/"
+    link: "https://ohiomint-enjoyment.vercel.app/papas-hot-doggeria/"
   },
   {
     imageUrl: "./assets/images/games/papas-pancakeria.png",
     heading: "Papa's Pancakeria",
-    link: "https://games-kappa-beryl.vercel.app/papas-pancakeria/"
+    link: "https://ohiomint-enjoyment.vercel.app/papas-pancakeria/"
   },
   {
     imageUrl: "./assets/images/games/papas-pastaria.png",
     heading: "Papa's Pastaria",
-    link: "https://games-kappa-beryl.vercel.app/papas-pastaria/"
+    link: "https://ohiomint-enjoyment.vercel.app/papas-pastaria/"
   },
   {
     imageUrl: "./assets/images/games/papas-pizzeria.png",
     heading: "Papa's Pizzeria",
-    link: "https://games-kappa-beryl.vercel.app/papas-pizzeria/"
+    link: "https://ohiomint-enjoyment.vercel.app/papas-pizzeria/"
   },
   {
     imageUrl: "./assets/images/games/papas-scooperia.png",
     heading: "Papa's Scooperia",
-    link: "https://games-kappa-beryl.vercel.app/papas-scooperia/"
+    link: "https://ohiomint-enjoyment.vercel.app/papas-scooperia/"
   },
   {
     imageUrl: "./assets/images/games/papas-sushiria.png",
     heading: "Papa's Sushiria",
-    link: "https://games-kappa-beryl.vercel.app/papas-sushiria/"
+    link: "https://ohiomint-enjoyment.vercel.app/papas-sushiria/"
   },
   {
     imageUrl: "./assets/images/games/papas-taco-mia.png",
     heading: "Papa's Taco Mia",
-    link: "https://games-kappa-beryl.vercel.app/papas-taco-mia/"
+    link: "https://ohiomint-enjoyment.vercel.app/papas-taco-mia/"
   },
   {
     imageUrl: "./assets/images/games/papas-wingeria.png",
     heading: "Papa's Wingeria",
-    link: "https://games-kappa-beryl.vercel.app/papas-wingeria/"
+    link: "https://ohiomint-enjoyment.vercel.app/papas-wingeria/"
   },
   {
     imageUrl: "./assets/images/games/peggle.png",
     heading: "Peggle",
-    link: "https://games-kappa-beryl.vercel.app/peggle/"
+    link: "https://ohiomint-enjoyment.vercel.app/peggle/"
   },
   {
     imageUrl: "./assets/images/games/plants-vs-zombies.png",
     heading: "Plants vs Zombies",
-    link: "https://games-kappa-beryl.vercel.app/plants-vs-zombies/"
+    link: "https://ohiomint-enjoyment.vercel.app/plants-vs-zombies/"
   },
   {
     imageUrl: "./assets/images/games/red-ball-4.png",
     heading: "Red Ball 4",
-    link: "https://games-kappa-beryl.vercel.app/red-ball-4/"
+    link: "https://ohiomint-enjoyment.vercel.app/red-ball-4/"
   },
   {
     imageUrl: "./assets/images/games/retro-bowl.png",
     heading: "Retro Bowl",
-    link: "https://games-kappa-beryl.vercel.app/retro-bowl/"
+    link: "https://ohiomint-enjoyment.vercel.app/retro-bowl/"
   },
   {
     imageUrl: "./assets/images/games/rolling-sky.png",
     heading: "Rolling Sky",
-    link: "https://games-kappa-beryl.vercel.app/rolling-sky/"
+    link: "https://ohiomint-enjoyment.vercel.app/rolling-sky/"
   },
   {
     imageUrl: "./assets/images/games/solar-smash.png",
     heading: "Solar Smash",
-    link: "https://games-kappa-beryl.vercel.app/solar-smash/"
+    link: "https://ohiomint-enjoyment.vercel.app/solar-smash/"
   },
   {
     imageUrl: "./assets/images/games/sonic-mania.png",
     heading: "Sonic Mania",
-    link: "https://games-kappa-beryl.vercel.app/sonic-mania/"
+    link: "https://ohiomint-enjoyment.vercel.app/sonic-mania/"
   },
   {
     imageUrl: "./assets/images/games/space-waves.png",
     heading: "Space Waves",
-    link: "https://games-kappa-beryl.vercel.app/space-waves/"
+    link: "https://ohiomint-enjoyment.vercel.app/space-waves/"
   },
   {
     imageUrl: "./assets/images/games/stickman-hook.png",
     heading: "Stickman Hook",
-    link: "https://games-kappa-beryl.vercel.app/stickman-hook/"
+    link: "https://ohiomint-enjoyment.vercel.app/stickman-hook/"
   },
   {
     imageUrl: "./assets/images/games/subway-surfers.png",
     heading: "Subway Surfers",
-    link: "https://games-kappa-beryl.vercel.app/subway-surfers/"
+    link: "https://ohiomint-enjoyment.vercel.app/subway-surfers/"
   },
   {
     imageUrl: "./assets/images/games/tag.png",
     heading: "Tag",
-    link: "https://games-kappa-beryl.vercel.app/tag/"
+    link: "https://ohiomint-enjoyment.vercel.app/tag/"
   },
   {
     imageUrl: "./assets/images/games/temple-run-2.png",
     heading: "Temple Run 2",
-    link: "https://games-kappa-beryl.vercel.app/temple-run-2/"
+    link: "https://ohiomint-enjoyment.vercel.app/temple-run-2/"
   },
   {
     imageUrl: "./assets/images/games/the-impossible-quiz.png",
     heading: "The Impossible Quiz",
-    link: "https://games-kappa-beryl.vercel.app/the-impossible-quiz/"
+    link: "https://ohiomint-enjoyment.vercel.app/the-impossible-quiz/"
   },
   {
     imageUrl: "./assets/images/games/the-impossible-quiz-2.png",
     heading: "The Impossible Quiz 2",
-    link: "https://games-kappa-beryl.vercel.app/the-impossible-quiz-2/"
+    link: "https://ohiomint-enjoyment.vercel.app/the-impossible-quiz-2/"
   },
   {
     imageUrl: "./assets/images/games/the-impossible-quiz-book.png",
     heading: "The Impossible Quiz Book",
-    link: "https://games-kappa-beryl.vercel.app/the-impossible-quiz-book/"
+    link: "https://ohiomint-enjoyment.vercel.app/the-impossible-quiz-book/"
   },
   {
     imageUrl: "./assets/images/games/the-impossible-quiz-book-2.png",
     heading: "The Impossible Quiz Book 2",
-    link: "https://games-kappa-beryl.vercel.app/the-impossible-quiz-book-2/"
+    link: "https://ohiomint-enjoyment.vercel.app/the-impossible-quiz-book-2/"
   },
   {
     imageUrl: "./assets/images/games/the-impossible-quiz-book-3.png",
     heading: "The Impossible Quiz Book 3",
-    link: "https://games-kappa-beryl.vercel.app/the-impossible-quiz-book-3/"
+    link: "https://ohiomint-enjoyment.vercel.app/the-impossible-quiz-book-3/"
   },
   {
     imageUrl: "./assets/images/games/tomb-of-the-mask.png",
     heading: "Tomb of the Mask",
-    link: "https://games-kappa-beryl.vercel.app/tomb-of-the-mask/"
+    link: "https://ohiomint-enjoyment.vercel.app/tomb-of-the-mask/"
   },
   {
     imageUrl: "./assets/images/games/zuma.png",
     heading: "Zuma",
-    link: "https://games-kappa-beryl.vercel.app/zuma/"
+    link: "https://ohiomint-enjoyment.vercel.app/zuma/"
   }
 ];
 
